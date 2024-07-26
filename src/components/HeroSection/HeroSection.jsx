@@ -1,8 +1,9 @@
 import Card from "../Card/Card";
+import "./HeroSection.css";
+
 const HeroSection = () => {
   return (
-    <div>
-      <Card />
+    <div className="HeroSection">
       <Card />
       <Card />
       <Card />
