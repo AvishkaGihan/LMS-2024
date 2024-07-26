@@ -16,6 +16,4 @@ function App() {
   );
 }
 
-//add comment
-
 export default App;
