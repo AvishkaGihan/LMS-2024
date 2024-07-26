@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-section">
         <div className="footer-logo">
-          <img src="/path/to/logo.png" alt="LaMetric" />
+          <img src="/public/logo.png" alt="LaMetric" />
         </div>
         <div className="footer-social-media">
           <p>Find us on social media</p>
